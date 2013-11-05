@@ -3,10 +3,10 @@
 	<title>Hello world!</title>
 	<style>
 	body {
-		background-image: url('bg.png');
+		background-color: white;
 		text-align: center;
 		padding: 50px;
-		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+		font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 	}
 
 	#logo {
